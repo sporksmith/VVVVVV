@@ -47,17 +47,17 @@
     <string english="game pad" translation="ilo luka musi" explanation="menu option"/>
     <string english="Game Pad Options" translation="ante pi ilo luka musi" explanation="title" max="20"/>
     <string english="Game Pad" translation="ilo luka musi" explanation="title" max="20"/>
-    <string english="Rebind your controller&apos;s buttons and adjust sensitivity." translation="" explanation="" max="38*5"/>
-    <string english="Change controller options." translation="" explanation="" max="38*2"/>
-    <string english="language" translation="" explanation="menu option"/>
-    <string english="Language" translation="" explanation="title" max="20"/>
-    <string english="Change the language." translation="" explanation="" max="38*2"/>
-    <string english="Can not change the language while a textbox is displayed in-game." translation="" explanation="" max="38*3"/>
-    <string english="clear main game data" translation="" explanation="menu option"/>
-    <string english="clear custom level data" translation="" explanation="menu option"/>
-    <string english="Clear Data" translation="" explanation="title" max="20"/>
-    <string english="Delete your main game save data and unlocked play modes." translation="" explanation="" max="38*5"/>
-    <string english="Delete your custom level save data and completion stars." translation="" explanation="completion stars: when completing a level you get either 1 or 2 stars" max="38*5"/>
+    <string english="Rebind your controller&apos;s buttons and adjust sensitivity." translation="o ante e nasin pi ilo luka musi e pilin." explanation="" max="38*5"/>
+    <string english="Change controller options." translation="o ante e ante pi ilo luka musi" explanation="Just 'o ante e ilo luka musi' sounds like switching controller" max="38*2"/>
+    <string english="language" translation="toki" explanation="menu option"/>
+    <string english="Language" translation="toki" explanation="title" max="20"/>
+    <string english="Change the language." translation="o ante e toki." explanation="" max="38*2"/>
+    <string english="Can not change the language while a textbox is displayed in-game." translation="musi li pana lukin e sitelen toki. ni, la ona ken ala ante e toki." explanation="" max="38*3"/>
+    <string english="clear main game data" translation="o " explanation="menu option"/>
+    <string english="clear custom level data" translation="o weka e nanpa ma sina" explanation="menu option"/>
+    <string english="Clear Data" translation="o weka e nanpa" explanation="title" max="20"/>
+    <string english="Delete your main game save data and unlocked play modes." translation="o weka e musi awen nanpa wan sina e nasin musi sina." explanation="" max="38*5"/>
+    <string english="Delete your custom level save data and completion stars." translation="o weka e musi awen sina pi ma sina e suno pini sina." explanation="completion stars: when completing a level you get either 1 or 2 stars" max="38*5"/>
     <string english="Are you sure? This will delete your current saves..." translation="" explanation="" max="38*7"/>
     <string english="Are you sure you want to delete all your saved data?" translation="" explanation="" max="38*7"/>
     <string english="Are you sure you want to delete your quicksave?" translation="" explanation="only the quicksave of a custom level" max="38*7"/>
