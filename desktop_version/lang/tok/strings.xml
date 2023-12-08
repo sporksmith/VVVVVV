@@ -3,17 +3,17 @@
 <strings>
     <string english="LOADING... {percent|digits=2|spaces}%" translation="ni li open... {percent|digits=2|spaces}%" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
     <string english="Game paused" translation="tenpo li tawa ala" explanation="pause screen" max="40"/>
-    <string english="[click to resume]" translation="" explanation="pause screen" max="40"/>
-    <string english="Press M to mute in game" translation="" explanation="pause screen" max="40"/>
-    <string english="Press N to mute music only" translation="" explanation="pause screen" max="40"/>
-    <string english="MAKE AND PLAY EDITION" translation="" explanation="" max="27"/>
-    <string english="[MMMMMM Mod Installed]" translation="" explanation="" max="32"/>
-    <string english="play" translation="" explanation="main menu option"/>
-    <string english="levels" translation="" explanation="main menu option"/>
-    <string english="options" translation="" explanation="main menu option"/>
-    <string english="translator" translation="" explanation="main menu option"/>
-    <string english="credits" translation="" explanation="main menu option"/>
-    <string english="quit" translation="" explanation="main menu option"/>
+    <string english="[click to resume]" translation="[o awen kepeken luka]" explanation="pause screen" max="40"/>
+    <string english="Press M to mute in game" translation="o kalama ala lon musi kepeken M" explanation="pause screen" max="40"/>
+    <string english="Press N to mute music only" translation="o kalama ala e kalama musi taso kepeken N" explanation="pause screen" max="40"/>
+    <string english="MAKE AND PLAY EDITION" translation="ANTE NI: O PALI O MUSI" explanation="" max="27"/>
+    <string english="[MMMMMM Mod Installed]" translation="[ante MMMMMM li lon]" explanation="" max="32"/>
+    <string english="play" translation="o musi" explanation="main menu option"/>
+    <string english="levels" translation="ma mute" explanation="main menu option"/>
+    <string english="options" translation="ante mute" explanation="main menu option"/>
+    <string english="translator" translation="jan pi toki tawa" explanation="main menu option"/>
+    <string english="credits" translation="jan pali" explanation="main menu option"/>
+    <string english="quit" translation="o tawa weka" explanation="main menu option"/>
     <string english="gameplay" translation="" explanation="options menu option"/>
     <string english="Gameplay Options" translation="" explanation="title" max="20"/>
     <string english="Adjust various gameplay settings." translation="" explanation="" max="38*5"/>
