@@ -5,7 +5,7 @@
     <string english="Game paused" translation="tenpo li tawa ala" explanation="pause screen" max="40"/>
     <string english="[click to resume]" translation="[o awen kepeken luka]" explanation="pause screen" max="40"/>
     <string english="Press M to mute in game" translation="o kalama ala lon musi kepeken M" explanation="pause screen" max="40"/>
-    <string english="Press N to mute music only" translation="o kalama ala e kalama musi kepeken N" translation_long="o kalama ala e kalama musi taso kepeken N" explanation="pause screen" max="40"/>
+    <string english="Press N to mute music only" translation="nena N li weka e kalama musi" explanation="pause screen" max="40"/>
     <string english="MAKE AND PLAY EDITION" translation="ANTE NI: O PALI O MUSI" explanation="" max="27"/>
     <string english="[MMMMMM Mod Installed]" translation="[ante MMMMMM li lon]" explanation="" max="32"/>
     <string english="play" translation="o musi" explanation="main menu option"/>
