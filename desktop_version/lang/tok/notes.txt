@@ -1,0 +1,15 @@
+Thoughts/decisions about how to translate certain concepts.
+
+* X key
+  * nasin X (thanks @ waso Salinsen)
+* save game
+  * o sitelen e musi tawa kiwen [nanpa]
+  * ~~o awen~~ ambiguous with "continue"
+* load game
+  * o lukin e musi tan kiwen [nanpa]
+
+* continue
+  * o awen
+* teleporter
+  * ilo tawa
+  * ilo tawa nasa (maybe)
