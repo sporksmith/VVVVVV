@@ -16,37 +16,37 @@
     <string english="quit" translation="o weka" explanation="main menu option"/>
     <string english="gameplay" translation="ante musi" explanation="options menu option"/>
     <string english="Gameplay Options" translation="ante musi" explanation="title" max="20"/>
-    <string english="Adjust various gameplay settings." translation="" explanation="" max="38*5"/>
-    <string english="graphics" translation="" explanation="options menu option"/>
-    <string english="Graphics Options" translation="" explanation="title" max="20"/>
-    <string english="Adjust screen settings." translation="" explanation="" max="38*5"/>
-    <string english="audio" translation="" explanation="options menu option"/>
-    <string english="Audio Options" translation="" explanation="title" max="20"/>
-    <string english="Adjust volume settings and soundtrack." translation="" explanation="" max="38*5"/>
-    <string english="Adjust volume settings." translation="" explanation="" max="38*5"/>
+    <string english="Adjust various gameplay settings." translation="o ante e ante musi mute" explanation="" max="38*5"/>
+    <string english="graphics" translation="sitelen" explanation="options menu option"/>
+    <string english="Graphics Options" translation="ante sitelen" explanation="title" max="20"/>
+    <string english="Adjust screen settings." translation="o ante e ilo sitelen" explanation="" max="38*5"/>
+    <string english="audio" translation="kalama" explanation="options menu option"/>
+    <string english="Audio Options" translation="kalama ante" explanation="title" max="20"/>
+    <string english="Adjust volume settings and soundtrack." translation="o ante e wawa kalama e anu kalama" explanation="" max="38*5"/>
+    <string english="Adjust volume settings." translation="o ante e wawa kalama" explanation="" max="38*5"/>
     <string english="continue" translation="o awen" explanation="menu option"/>
     <string english="continue from teleporter" translation="o awen lon ilo tawa" explanation="menu option, game save that was made at a teleporter"/>
-    <string english="Tele Save" translation="" explanation="title, game save that was made at a teleporter" max="20"/>
-    <string english="continue from quicksave" translation="" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
-    <string english="Quick Save" translation="" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
+    <string english="Tele Save" translation="musi awen pi ilo tawa" explanation="title, game save that was made at a teleporter" max="20"/>
+    <string english="continue from quicksave" translation="awen tan musi awen pi tenpo lili" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
+    <string english="Quick Save" translation="musi awen pi tenpo lili" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
     <string english="proceed" translation="o awen" explanation="menu option"/>
     <string english="new game" translation="musi sin" explanation="menu option"/>
     <string english="start new game" translation="o open e musi sin" explanation="menu option, extra confirmation"/>
     <string english="secret lab" translation="tomo nasa len" explanation="menu option"/>
-    <string english="play modes" translation="" explanation="menu option"/>
-    <string english="ERROR: No levels found." translation="" explanation="" max="38*3"/>
-    <string english="ERROR: This level has no start point!" translation="" explanation="" max="38*5"/>
-    <string english="ERROR" translation="" explanation="title" max="20"/>
-    <string english="WARNING" translation="" explanation="title" max="20"/>
-    <string english="unlock play modes" translation="" explanation="menu option"/>
-    <string english="Unlock Play Modes" translation="" explanation="title" max="20"/>
-    <string english="Unlock parts of the game normally unlocked as you progress." translation="" explanation="" max="38*5"/>
-    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="" explanation="" max="38*5"/>
-    <string english="unlock ship jukebox" translation="" explanation="menu option"/>
-    <string english="unlock secret lab" translation="" explanation="menu option"/>
-    <string english="game pad" translation="" explanation="menu option"/>
-    <string english="Game Pad Options" translation="" explanation="title" max="20"/>
-    <string english="Game Pad" translation="" explanation="title" max="20"/>
+    <string english="play modes" translation="nasin musi" explanation="menu option"/>
+    <string english="ERROR: No levels found." translation="PAKALA: ma ala." explanation="" max="38*3"/>
+    <string english="ERROR: This level has no start point!" translation="PAKALA: ma li jo ala e open a!" explanation="" max="38*5"/>
+    <string english="ERROR" translation="PAKALA" explanation="title" max="20"/>
+    <string english="WARNING" translation="PAKALA LILI" explanation="title" max="20"/>
+    <string english="unlock play modes" translation="o kama jo e nasin musi" explanation="menu option"/>
+    <string english="Unlock Play Modes" translation="o kama jo e nasin musi" explanation="title" max="20"/>
+    <string english="Unlock parts of the game normally unlocked as you progress." translation="o kama jo e insa musi. nasa ala, la ni li kama jo kepeken musi." explanation="" max="38*5"/>
+    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="lon ni, la sina ken kama jo e insa musi. nasa ala, la ni li kama jo kepeken musi." explanation="" max="38*5"/>
+    <string english="unlock ship jukebox" translation="o kama jo e ilo kalama pi tomo tawa mun" explanation="menu option"/>
+    <string english="unlock secret lab" translation="o kama jo e tomo nasa len" explanation="menu option"/>
+    <string english="game pad" translation="ilo luka musi" explanation="menu option"/>
+    <string english="Game Pad Options" translation="ante pi ilo luka musi" explanation="title" max="20"/>
+    <string english="Game Pad" translation="ilo luka musi" explanation="title" max="20"/>
     <string english="Rebind your controller&apos;s buttons and adjust sensitivity." translation="" explanation="" max="38*5"/>
     <string english="Change controller options." translation="" explanation="" max="38*2"/>
     <string english="language" translation="" explanation="menu option"/>
