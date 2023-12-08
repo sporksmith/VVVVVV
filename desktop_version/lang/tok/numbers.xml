@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Please read README.txt for information about the language files -->
 <numbers>
-    <number value="0" form="0" english="Zero" translation=""/>
-    <number value="1" form="1" english="One" translation=""/>
-    <number value="2" form="0" english="Two" translation=""/>
-    <number value="3" form="0" english="Three" translation=""/>
-    <number value="4" form="0" english="Four" translation=""/>
-    <number value="5" form="0" english="Five" translation=""/>
-    <number value="6" form="0" english="Six" translation=""/>
-    <number value="7" form="0" english="Seven" translation=""/>
-    <number value="8" form="0" english="Eight" translation=""/>
-    <number value="9" form="0" english="Nine" translation=""/>
-    <number value="10" form="0" english="Ten" translation=""/>
-    <number value="11" form="0" english="Eleven" translation=""/>
-    <number value="12" form="0" english="Twelve" translation=""/>
-    <number value="13" form="0" english="Thirteen" translation=""/>
-    <number value="14" form="0" english="Fourteen" translation=""/>
-    <number value="15" form="0" english="Fifteen" translation=""/>
-    <number value="16" form="0" english="Sixteen" translation=""/>
-    <number value="17" form="0" english="Seventeen" translation=""/>
-    <number value="18" form="0" english="Eighteen" translation=""/>
-    <number value="19" form="0" english="Nineteen" translation=""/>
-    <number value="20" form="0" english="Twenty" translation=""/>
-    <number value="21" form="0" english="Twenty One" translation=""/>
-    <number value="22" form="0" english="Twenty Two" translation=""/>
-    <number value="23" form="0" english="Twenty Three" translation=""/>
-    <number value="24" form="0" english="Twenty Four" translation=""/>
-    <number value="25" form="0" english="Twenty Five" translation=""/>
-    <number value="26" form="0" english="Twenty Six" translation=""/>
-    <number value="27" form="0" english="Twenty Seven" translation=""/>
-    <number value="28" form="0" english="Twenty Eight" translation=""/>
-    <number value="29" form="0" english="Twenty Nine" translation=""/>
-    <number value="30" form="0" english="Thirty" translation=""/>
-    <number value="31" form="0" english="Thirty One" translation=""/>
-    <number value="32" form="0" english="Thirty Two" translation=""/>
-    <number value="33" form="0" english="Thirty Three" translation=""/>
-    <number value="34" form="0" english="Thirty Four" translation=""/>
-    <number value="35" form="0" english="Thirty Five" translation=""/>
-    <number value="36" form="0" english="Thirty Six" translation=""/>
-    <number value="37" form="0" english="Thirty Seven" translation=""/>
-    <number value="38" form="0" english="Thirty Eight" translation=""/>
-    <number value="39" form="0" english="Thirty Nine" translation=""/>
-    <number value="40" form="0" english="Forty" translation=""/>
+    <number value="0" form="0" english="Zero" translation="ala"/>
+    <number value="1" form="1" english="One" translation="wan"/>
+    <number value="2" form="0" english="Two" translation="tu"/>
+    <number value="3" form="0" english="Three" translation="tu wan"/>
+    <number value="4" form="0" english="Four" translation="tu tu"/>
+    <number value="5" form="0" english="Five" translation="luka"/>
+    <number value="6" form="0" english="Six" translation="luka wan"/>
+    <number value="7" form="0" english="Seven" translation="luka tu"/>
+    <number value="8" form="0" english="Eight" translation="luka tu wan"/>
+    <number value="9" form="0" english="Nine" translation="luka tu tu"/>
+    <number value="10" form="0" english="Ten" translation="luka luka"/>
+    <number value="11" form="0" english="Eleven" translation="luka luka wan"/>
+    <number value="12" form="0" english="Twelve" translation="luka luka tu"/>
+    <number value="13" form="0" english="Thirteen" translation="luka luka tu wan"/>
+    <number value="14" form="0" english="Fourteen" translation="luka luka tu tu"/>
+    <number value="15" form="0" english="Fifteen" translation="luka luka luka"/>
+    <number value="16" form="0" english="Sixteen" translation="luka luka luka wan"/>
+    <number value="17" form="0" english="Seventeen" translation="luka luka luka tu"/>
+    <number value="18" form="0" english="Eighteen" translation="luka luka luka tu wan"/>
+    <number value="19" form="0" english="Nineteen" translation="luka luka luka tu tu"/>
+    <number value="20" form="0" english="Twenty" translation="mute"/>
+    <number value="21" form="0" english="Twenty One" translation="mute wan"/>
+    <number value="22" form="0" english="Twenty Two" translation="mute tu"/>
+    <number value="23" form="0" english="Twenty Three" translation="mute tu wan"/>
+    <number value="24" form="0" english="Twenty Four" translation="mute tu tu"/>
+    <number value="25" form="0" english="Twenty Five" translation="mute luka"/>
+    <number value="26" form="0" english="Twenty Six" translation="mute luka wan"/>
+    <number value="27" form="0" english="Twenty Seven" translation="mute luka tu"/>
+    <number value="28" form="0" english="Twenty Eight" translation="mute luka tu wan"/>
+    <number value="29" form="0" english="Twenty Nine" translation="mute luka tu tu"/>
+    <number value="30" form="0" english="Thirty" translation="mute luka luka"/>
+    <number value="31" form="0" english="Thirty One" translation="mute luka luka wan"/>
+    <number value="32" form="0" english="Thirty Two" translation="mute luka luka tu"/>
+    <number value="33" form="0" english="Thirty Three" translation="mute luka luka tu wan"/>
+    <number value="34" form="0" english="Thirty Four" translation="mute luka luka tu tu"/>
+    <number value="35" form="0" english="Thirty Five" translation="mute luka luka luka"/>
+    <number value="36" form="0" english="Thirty Six" translation="mute luka luka luka wan"/>
+    <number value="37" form="0" english="Thirty Seven" translation="mute luka luka luka tu"/>
+    <number value="38" form="0" english="Thirty Eight" translation="mute luka luka luka tu wan"/>
+    <number value="39" form="0" english="Thirty Nine" translation="mute luka luka luka tu tu"/>
+    <number value="40" form="0" english="Forty" translation="mute mute"/>
     <number value="41" form="0" english="Forty One" translation=""/>
     <number value="42" form="0" english="Forty Two" translation=""/>
     <number value="43" form="0" english="Forty Three" translation=""/>
@@ -101,7 +101,7 @@
     <number value="97" form="0" english="Ninety Seven" translation=""/>
     <number value="98" form="0" english="Ninety Eight" translation=""/>
     <number value="99" form="0" english="Ninety Nine" translation=""/>
-    <number value="100" form="0" english="One Hundred" translation=""/>
+    <number value="100" form="0" english="One Hundred" translation="ale"/>
     <number value="101" form="0"/>
     <number value="102" form="0"/>
     <number value="103" form="0"/>
