@@ -3,16 +3,16 @@
     <active>1</active>
 
     <!-- should be lowercase because menu style, and should be in the language itself -->
-    <nativename>english</nativename>
+    <nativename>toki pona</nativename>
 
-    <!-- English translation by X -->
+    <!-- translation by X -->
     <credit></credit>
 
     <!-- On the language screen, hard limit 40 8x8 characters. Space/Z/V sets this as the language -->
-    <action_hint>Press Space, Z, or V to select</action_hint>
+    <action_hint>sina wile, la o luka e Space anu Z anu V</action_hint>
 
     <!-- Same as above, but for a gamepad button (hard limit 40 8x8 characters) -->
-    <gamepad_hint>Press {button} to select</gamepad_hint>
+    <gamepad_hint>sina wile, la o luka {button}</gamepad_hint>
 
     <!-- Enable automatic word wrapping instead of having to manually insert newlines -->
     <autowordwrap>1</autowordwrap>
