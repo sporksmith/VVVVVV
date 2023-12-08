@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Please read README.txt for information about the language files -->
 <strings>
-    <string english="LOADING... {percent|digits=2|spaces}%" translation="" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
-    <string english="Game paused" translation="" explanation="pause screen" max="40"/>
+    <string english="LOADING... {percent|digits=2|spaces}%" translation="ni li open... {percent|digits=2|spaces}%" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
+    <string english="Game paused" translation="tenpo li tawa ala" explanation="pause screen" max="40"/>
     <string english="[click to resume]" translation="" explanation="pause screen" max="40"/>
     <string english="Press M to mute in game" translation="" explanation="pause screen" max="40"/>
     <string english="Press N to mute music only" translation="" explanation="pause screen" max="40"/>
