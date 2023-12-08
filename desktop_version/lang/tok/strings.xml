@@ -13,7 +13,7 @@
     <string english="options" translation="ante mute" explanation="main menu option"/>
     <string english="translator" translation="jan pi toki tawa" explanation="main menu option"/>
     <string english="credits" translation="jan pali" explanation="main menu option"/>
-    <string english="quit" translation="o tawa weka" explanation="main menu option"/>
+    <string english="quit" translation="o weka" explanation="main menu option"/>
     <string english="gameplay" translation="ante musi" explanation="options menu option"/>
     <string english="Gameplay Options" translation="ante musi" explanation="title" max="20"/>
     <string english="Adjust various gameplay settings." translation="" explanation="" max="38*5"/>
