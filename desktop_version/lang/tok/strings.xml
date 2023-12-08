@@ -3,9 +3,9 @@
 <strings>
     <string english="LOADING... {percent|digits=2|spaces}%" translation="ni li open... {percent|digits=2|spaces}%" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
     <string english="Game paused" translation="tenpo li tawa ala" explanation="pause screen" max="40"/>
-    <string english="[click to resume]" translation="[o awen kepeken luka]" explanation="pause screen" max="40"/>
-    <string english="Press M to mute in game" translation="o kalama ala lon musi kepeken M" explanation="pause screen" max="40"/>
-    <string english="Press N to mute music only" translation="nena N li weka e kalama musi" explanation="pause screen" max="40"/>
+    <string english="[click to resume]" translation="[luka li kepeken]" explanation="pause screen" max="40"/>
+    <string english="Press M to mute in game" translation="nena M li weka e kalama lon musi" explanation="pause screen" max="40"/>
+    <string english="Press N to mute music only" translation="nena N li weka e kalama musi taso" explanation="pause screen" max="40"/>
     <string english="MAKE AND PLAY EDITION" translation="ANTE NI: O PALI O MUSI" explanation="" max="27"/>
     <string english="[MMMMMM Mod Installed]" translation="[ante MMMMMM li lon]" explanation="" max="32"/>
     <string english="play" translation="o musi" explanation="main menu option"/>
