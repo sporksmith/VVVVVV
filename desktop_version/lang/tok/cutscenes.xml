@@ -2,16 +2,16 @@
 <!-- Please read README.txt for information about the language files -->
 <cutscenes>
     <cutscene id="intro" explanation="">
-        <dialogue speaker="cyan" english="Uh oh..." translation="mu..."/>
+        <dialogue speaker="cyan" english="Uh oh..." translation="n..."/>
         <dialogue speaker="purple" english="Is everything ok?" translation="ale li pona anu seme?"/>
         <dialogue speaker="cyan" english="No! We&apos;ve hit some kind of interference..." translation="ala! kalama wawa kepeken li kama..."/>
-        <dialogue speaker="cyan" english="Something&apos;s wrong! We&apos;re going to crash!" translation="ijo li pona ala a! mi mute kama pakala!"/>
+        <dialogue speaker="cyan" english="Something&apos;s wrong! We&apos;re going to crash!" translation="ijo li pakala a! mi mute kama pini pakala!"/>
         <dialogue speaker="cyan" english="Evacuate!" translation="o weka a!"/>
         <dialogue speaker="blue" english="Oh no!" translation="ala a!"/>
-        <dialogue speaker="red" english="Everyone off the ship!" translation="jan ale o tawa weka tan tomo tawa mun a!"/>
+        <dialogue speaker="red" english="Everyone off the ship!" translation="jan ale o weka tan tomo tawa mun a!"/>
         <dialogue speaker="yellow" english="This shouldn&apos;t be happening!" translation="ni li ken ala!"/>
-        <dialogue speaker="cyan" english="Phew! That was scary!" translation="mu a! ni pini li ike!"/>
-        <dialogue speaker="cyan" english="At least we all escaped, right guys?" translation="taso mi ale li pona. jan pona e pilin sama anu seme?"/>
+        <dialogue speaker="cyan" english="Phew! That was scary!" translation="a! ni pini li ike!"/>
+        <dialogue speaker="cyan" english="At least we all escaped, right guys?" translation="taso jan pona ale li pona, anu seme?"/>
         <dialogue speaker="cyan" english="...guys?" translation="...jan pona o?"/>
     </cutscene>
     <cutscene id="firststeps" explanation="">
