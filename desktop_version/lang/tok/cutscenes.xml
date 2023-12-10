@@ -4,7 +4,7 @@
     <cutscene id="intro" explanation="">
         <dialogue speaker="cyan" english="Uh oh..." translation="n..."/>
         <dialogue speaker="purple" english="Is everything ok?" translation="ale li pona anu seme?"/>
-        <dialogue speaker="cyan" english="No! We&apos;ve hit some kind of interference..." translation="ala! kalama wawa kepeken li kama..."/>
+        <dialogue speaker="cyan" english="No! We&apos;ve hit some kind of interference..." translation="ala! kalama wawa utula li kama..."/>
         <dialogue speaker="cyan" english="Something&apos;s wrong! We&apos;re going to crash!" translation="ijo li pakala a! mi mute kama pini pakala!"/>
         <dialogue speaker="cyan" english="Evacuate!" translation="o weka a!"/>
         <dialogue speaker="blue" english="Oh no!" translation="ala a!"/>
@@ -19,21 +19,21 @@
         <dialogue speaker="cyan" english="I hope everyone else got out ok..." translation=""/>
     </cutscene>
     <cutscene id="communicationstation" explanation="">
-        <dialogue speaker="cyan" english="Violet! Is that you?" translation=""/>
-        <dialogue speaker="purple" english="Captain! You&apos;re ok!" translation=""/>
-        <dialogue speaker="purple" english="Something has gone horribly wrong with the ship&apos;s teleporter!" translation=""/>
-        <dialogue speaker="purple" english="I think everyone has been teleported away randomly! They could be anywhere!" translation=""/>
-        <dialogue speaker="cyan" english="Oh no!" translation=""/>
-        <dialogue speaker="purple" english="I&apos;m on the ship - it&apos;s damaged badly, but it&apos;s still intact!" translation=""/>
-        <dialogue speaker="purple" english="Where are you, Captain?" translation=""/>
-        <dialogue speaker="cyan" english="I&apos;m on some sort of space station... It seems pretty modern..." translation=""/>
-        <dialogue speaker="purple" english="There seems to be some sort of interference in this dimension..." translation=""/>
-        <dialogue speaker="purple" english="I&apos;m broadcasting the coordinates of the ship to you now." translation=""/>
-        <dialogue speaker="purple" english="I can&apos;t teleport you back, but..." translation=""/>
-        <dialogue speaker="purple" english="If YOU can find a teleporter anywhere nearby, you should be able to teleport back to me!" translation=""/>
-        <dialogue speaker="cyan" english="Ok! I&apos;ll try to find one!" translation=""/>
-        <dialogue speaker="purple" english="Good luck, Captain!" translation=""/>
-        <dialogue speaker="purple" english="I&apos;ll keep trying to find the rest of the crew..." translation=""/>
+        <dialogue speaker="cyan" english="Violet! Is that you?" translation="jan Laso Luje o! ni li sina anu seme?"/>
+        <dialogue speaker="purple" english="Captain! You&apos;re ok!" translation="jan Lawa o! sina pona!"/>
+        <dialogue speaker="purple" english="Something has gone horribly wrong with the ship&apos;s teleporter!" translation="ilo tawa pi tomo tawa mun li pakala"/>
+        <dialogue speaker="purple" english="I think everyone has been teleported away randomly! They could be anywhere!" translation="ni li tawa e jan ale lon ma nasa. mi sona ale lon ante a!"/>
+        <dialogue speaker="cyan" english="Oh no!" translation="ike..."/>
+        <dialogue speaker="purple" english="I&apos;m on the ship - it&apos;s damaged badly, but it&apos;s still intact!" translation="mi lon tomo tawa mun. ona li pakala mute... taso ona li awen!"/>
+        <dialogue speaker="purple" english="Where are you, Captain?" translation="jan Lawa o, sina lon seme?"/>
+        <dialogue speaker="cyan" english="I&apos;m on some sort of space station... It seems pretty modern..." translation="mi lon ma ilo mun ante... ona li sin lukin..."/>
+        <dialogue speaker="purple" english="There seems to be some sort of interference in this dimension..." translation="ma ale ante nijo e utala kon nasa..."/>
+        <dialogue speaker="purple" english="I&apos;m broadcasting the coordinates of the ship to you now." translation="mi pana e nanpa ma pi tomo tawa mun tawa sina"/>
+        <dialogue speaker="purple" english="I can&apos;t teleport you back, but..." translation="mi ken ala tawa mi e sina, taso..."/>
+        <dialogue speaker="purple" english="If YOU can find a teleporter anywhere nearby, you should be able to teleport back to me!" translation="sina kama jo e ilo tawa, la sina ken tawa mi!"/>
+        <dialogue speaker="cyan" english="Ok! I&apos;ll try to find one!" translation="lon a! mi ni!"/>
+        <dialogue speaker="purple" english="Good luck, Captain!" translation="pona tawa sina, jan Lawa o"/>
+        <dialogue speaker="purple" english="I&apos;ll keep trying to find the rest of the crew..." translation="mi awen lukin jan ale..."/>
     </cutscene>
     <cutscene id="trenchwarfare" explanation="player finds Trench Warfare trinket, if no trinkets found yet">
         <dialogue speaker="cyan" english="Ohh! I wonder what that is?" translation=""/>
