@@ -36,8 +36,8 @@
         <dialogue speaker="purple" english="I&apos;ll keep trying to find the rest of the crew..." translation="mi awen lukin jan ale..."/>
     </cutscene>
     <cutscene id="trenchwarfare" explanation="player finds Trench Warfare trinket, if no trinkets found yet">
-        <dialogue speaker="cyan" english="Ohh! I wonder what that is?" translation=""/>
-        <dialogue speaker="cyan" english="I probably don&apos;t really need it, but it might be nice to take it back to the ship to study..." translation=""/>
+        <dialogue speaker="cyan" english="Ohh! I wonder what that is?" translation="a! ni li seme?"/>
+        <dialogue speaker="cyan" english="I probably don&apos;t really need it, but it might be nice to take it back to the ship to study..." translation="ken la mi wile ala ona. taso ni ken pona: mi jo e ona tawa tomo tawa mun. ni la mi ken lukin mute e ona."/>
     </cutscene>
     <cutscene id="newtrenchwarfare" explanation="player finds Trench Warfare trinket, if other trinket already found">
         <dialogue speaker="cyan" english="Oh! It&apos;s another one of those shiny things!" translation=""/>
