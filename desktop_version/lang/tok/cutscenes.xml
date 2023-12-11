@@ -48,23 +48,23 @@
         <dialogue speaker="cyan" english="I can get back to the ship with this!" translation="ni la, mi ken tawa tomo tawa mun!"/>
     </cutscene>
     <cutscene id="levelonecomplete_ending" explanation="">
-        <dialogue speaker="purple" english="Captain!" translation=""/>
+        <dialogue speaker="purple" english="Captain!" translation="jan Lawa o!"/>
     </cutscene>
     <cutscene id="bigopenworld" explanation="">
-        <dialogue speaker="player" english="So, Doctor - have you any idea what caused the crash?" translation=""/>
-        <dialogue speaker="purple" english="There&apos;s some sort of bizarre signal here that&apos;s interfering with our equipment..." translation=""/>
-        <dialogue speaker="purple" english="It caused the ship to lose its quantum position, collapsing us into this dimension!" translation=""/>
-        <dialogue speaker="player" english="Oh no!" translation=""/>
-        <dialogue speaker="purple" english="But I think we should be able to fix the ship and get out of here..." translation=""/>
-        <dialogue speaker="purple" english="... as long as we can find the rest of the crew." translation=""/>
-        <dialogue speaker="purple" english="We really don&apos;t know anything about this place..." translation=""/>
-        <dialogue speaker="purple" english="Our friends could be anywhere - they could be lost, or in danger!" translation=""/>
-        <dialogue speaker="player" english="Can they teleport back here?" translation=""/>
-        <dialogue speaker="purple" english="Not unless they find some way to communicate with us!" translation=""/>
-        <dialogue speaker="purple" english="We can&apos;t pick up their signal and they can&apos;t teleport here unless they know where the ship is..." translation=""/>
-        <dialogue speaker="player" english="So what do we do?" translation=""/>
-        <dialogue speaker="purple" english="We need to find them! Head out into the dimension and look for anywhere they might have ended up..." translation=""/>
-        <dialogue speaker="player" english="Ok! Where do we start?" translation=""/>
+        <dialogue speaker="player" english="So, Doctor - have you any idea what caused the crash?" translation="jan pi sona sijelo o - seme li pakala e tomo tawa mun?"/>
+        <dialogue speaker="purple" english="There&apos;s some sort of bizarre signal here that&apos;s interfering with our equipment..." translation="utala kon nasa li lon ni. ona li pakala e ilo mi..."/>
+        <dialogue speaker="purple" english="It caused the ship to lose its quantum position, collapsing us into this dimension!" translation="ni la, tomo tawa mun weka e lon ona. ni la, mi mute li tawa ma ale ante ni!"/>
+        <dialogue speaker="player" english="Oh no!" translation="pakala!"/>
+        <dialogue speaker="purple" english="But I think we should be able to fix the ship and get out of here..." translation="taso mi mute li ken pona e tomo tawa mun li ken weka..."/>
+        <dialogue speaker="purple" english="... as long as we can find the rest of the crew." translation="... taso mi wile alasa e jan ale."/>
+        <dialogue speaker="purple" english="We really don&apos;t know anything about this place..." translation="mi sona ala e lon ni..."/>
+        <dialogue speaker="purple" english="Our friends could be anywhere - they could be lost, or in danger!" translation="jan pona mi ken lon ante mute... ona li ken lon ale... li ken lon pakala!"/>
+        <dialogue speaker="player" english="Can they teleport back here?" translation="ona ken ala ken kepeken ilo tawa tawa ni?"/>
+        <dialogue speaker="purple" english="Not unless they find some way to communicate with us!" translation="lon tan ni: ona li kama toki tawa mi!"/>
+        <dialogue speaker="purple" english="We can&apos;t pick up their signal and they can&apos;t teleport here unless they know where the ship is..." translation="mi ken ala kute e ona... ona li ken ala kepeken ilo tawa tawa ni..."/>
+        <dialogue speaker="player" english="So what do we do?" translation="mi seme?"/>
+        <dialogue speaker="purple" english="We need to find them! Head out into the dimension and look for anywhere they might have ended up..." translation="mi wile kama jo ona! o tawa ma ale ante ni, o alasa e ona..."/>
+        <dialogue speaker="player" english="Ok! Where do we start?" translation="pona! mi open lon seme?"/>
         <dialogue speaker="purple" english="Well, I&apos;ve been trying to find them with the ship&apos;s scanners!" translation=""/>
         <dialogue speaker="purple" english="It&apos;s not working, but I did find something..." translation=""/>
         <dialogue speaker="purple" english="These points show up on our scans as having high energy patterns!" translation=""/>
